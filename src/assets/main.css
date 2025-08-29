@@ -1,0 +1,7 @@
+@import './base.css';
+
+/* Override any default dark mode preferences for this social app */
+html, body {
+  background-color: #ffffff;
+  color: #000000;
+}
